@@ -1,5 +1,6 @@
 Day 1: Quantum Computing (Beginner-Friendly)
 This is Day 1 of my daily tech learning journey on futuristic technologies.
+
 Quantum computers use qubits instead of regular bits.
 - A normal bit can be 0 or 1.
 - A qubit can be 0, 1, or both at the same time (this is called superposition).
