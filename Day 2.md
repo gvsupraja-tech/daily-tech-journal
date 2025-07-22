@@ -5,7 +5,7 @@ This is Day 2 of my daily tech learning journey on futuristic technologies.
 Augmented Reality (AR) adds digital elements — like 3D models, animations, or labels — on top of the real world, in real time.
 
 - You point your phone at the real world
-- It shows digital things as if they exist around you*
+- It shows digital things as if they exist around you
 
 Simple Examples
 
