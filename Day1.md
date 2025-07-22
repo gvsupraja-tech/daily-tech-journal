@@ -1,4 +1,4 @@
-Day 1: Quantum Computing (Beginner-Friendly)
+Day 1: Quantum Computing 
 This is Day 1 of my daily tech learning journey on futuristic technologies.
 
 Quantum computers use qubits instead of regular bits.
