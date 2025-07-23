@@ -1,7 +1,7 @@
 Day 2: Augmented Reality 
 This is Day 2 of my daily tech learning journey on futuristic technologies.
 
-🔍 What is Augmented Reality?
+ What is Augmented Reality?
 Augmented Reality (AR) adds digital elements — like 3D models, animations, or labels — on top of the real world, in real time.
 
 - You point your phone at the real world
