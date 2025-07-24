@@ -1,0 +1,48 @@
+Day 4: AI Agents (Autonomous AI)
+This is Day 4 of my 30-day tech learning journey on futuristic technologies.
+
+What Are AI Agents?
+AI Agents are like intelligent digital workers that:
+- Observe their environment 
+- Think or plan based on a goal 
+- Take actions on their own 
+
+They are not just "smart chatbots" — they are autonomous programs that complete tasks for you.
+
+Easy Example:
+
+Let’s say you need to book a flight  
+- A chatbot can answer your questions  
+- But an AI Agent will search flights, compare prices, select one, and book it — all by itself based on your preferences
+It acts like a human assistant!
+
+Key Features
+
+| Feature             | Description |
+|---------------------|-------------|
+| Autonomous           | Works on its own, without human help |
+| Goal-oriented        | Has a defined purpose or task |
+| Reactive             | Understands and responds to environment |
+| Learning ability     | Learns and improves with time |
+| Planning             | Decides steps to reach a goal |
+
+ Real-Life Use Cases
+
+- AutoGPT / BabyAGI – AI agents that browse the internet, write code, and complete tasks  
+- JARVIS-style assistants – Not just answering, but doing things
+- Customer service bots – That solve problems without being told step-by-step  
+- Stock trading bots – Analyze, plan, and invest automatically  
+- Healthcare agents – Monitor patient data and suggest treatment
+
+-- What I have learnt
+> AI Agents are not just about talking. They are about doing.
+They can complete goals with multiple steps, reason on their own, and reduce human effort in repetitive digital tasks.
+
+AI Agent vs Chatbot
+
+| Feature         | Chatbot           | AI Agent              |
+|------------------|-------------------|------------------------|
+| Response         | Only replies       | Replies and acts       |
+| Initiative       | Waits for input    | Takes action on its own |
+| Memory/Planning  | Very limited       | Can have memory and task planning |
+| Example          | ChatGPT in chat    | AutoGPT doing research |
